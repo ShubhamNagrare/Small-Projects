@@ -15,7 +15,7 @@ public class Slack {
     
     System.out.println(" Entering slack booot : ");
     
-    final String url = "https://hooks.slack.com/services/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";
+    final String url = "";
     
     System.out.println("Putting data slots");
     
