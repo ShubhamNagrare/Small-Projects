@@ -3,9 +3,9 @@ package com.shubham.maillistener;
 public interface Constants {
   
     // Mail Configurations
-  public static final String EMAIL_HOST = "mydecisionanalytics.co.uk";
-  public static final String EMAIL_RECEPIENT_ID = "shubham.n@mydecisionanalytics.co.uk";
-  public static final String EMAIL_RECEPIENT_PASSWORD = "Doraemon@123";
+  public static final String EMAIL_HOST = "";
+  public static final String EMAIL_RECEPIENT_ID = "";
+  public static final String EMAIL_RECEPIENT_PASSWORD = "";
   
   
 
@@ -16,14 +16,14 @@ public interface Constants {
   
     //AWS S3
     public final static String UPLOAD_FILESYSTEM_S3 = "s3";
-    public final static String AWS_S3_ACCESSKEY = "AKIA2ABP2TL4ZXDFEUG7";
-    public final static String AWS_S3_SECRETKEY = "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";
+    public final static String AWS_S3_ACCESSKEY = "";
+    public final static String AWS_S3_SECRETKEY = "";
     public final static String AWS_S3_BUCKETNAME = "client-financial";
     public final static String AWS_S3_REGION = "ap-south-1";
     
     //LOCAL
     public final static String UPLOAD_FILESYSTEM_LOCALFILESYSTEM = "local";
-    public final static String LOCAL_ROOT_DIRECTORY = "C:/Users/Tariq Iqbal";
+    public final static String LOCAL_ROOT_DIRECTORY = "";
     
     
     //OPS
