@@ -1,0 +1,15 @@
+Already Installed at  C:\Users\Public\Kafka\kafka_2.13-2.7.0\bin\windows
+
+goto this location
+1) START ZOOKEEPER - zookeeper-server-start.bat C:\Users\Public\Kafka\kafka_2.13-2.7.0\config\zookeeper.properties
+
+2) START KAFKA SERVER - kafka-server-start.bat C:\Users\Public\Kafka\kafka_2.13-2.7.0\config\server.properties
+
+3) CREATE KAFKA TOPICS - kafka-topics.bat --create --zookeeper localhost:2181 -replication-factor 1 --partitions 1 --topic chat-message
+
+4) OPEN CONSUMER TERMINAL - kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic chat-message --from-beginning
+
+5) OPEN PRODUCER TERMINAL - kafka-console-producer.bat --broker-list localhost:9092 --topic chat-message
+
+
+NO CHAT BY WRITING MESSAGE IN PRODUCER

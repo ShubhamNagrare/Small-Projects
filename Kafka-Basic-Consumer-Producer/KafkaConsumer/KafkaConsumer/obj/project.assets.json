@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kafka-net/0.9.0.65": {
+        "type": "package",
+        "compile": {
+          "lib/net45/kafka-net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/kafka-net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kafka-net/0.9.0.65": {
+      "sha512": "bJ89gwjnoNWJpw/DIU5O7vauPrm/pCaX9tFAzOyWoxqcR/ua7YxXHN1TzCY6/0OkO89eD9bsow5qt6xw4RXXPw==",
+      "type": "package",
+      "path": "kafka-net/0.9.0.65",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "kafka-net.0.9.0.65.nupkg.sha512",
+        "kafka-net.nuspec",
+        "lib/net45/kafka-net.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "kafka-net >= 0.9.0.65"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\91973\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\91973\\source\\repos\\KafkaConsumer\\KafkaConsumer\\KafkaConsumer.csproj",
+      "projectName": "KafkaConsumer",
+      "projectPath": "C:\\Users\\91973\\source\\repos\\KafkaConsumer\\KafkaConsumer\\KafkaConsumer.csproj",
+      "packagesPath": "C:\\Users\\91973\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\91973\\source\\repos\\KafkaConsumer\\KafkaConsumer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\91973\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "kafka-net": {
+            "target": "Package",
+            "version": "[0.9.0.65, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'kafka-net 0.9.0.65' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "kafka-net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

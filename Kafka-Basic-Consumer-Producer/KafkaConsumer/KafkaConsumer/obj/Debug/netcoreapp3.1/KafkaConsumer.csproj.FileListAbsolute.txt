@@ -1,0 +1,15 @@
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.exe
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.AssemblyInfoInputs.cache
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.AssemblyInfo.cs
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.deps.json
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.runtimeconfig.json
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.runtimeconfig.dev.json
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.dll
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\KafkaConsumer.pdb
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\bin\Debug\netcoreapp3.1\kafka-net.dll
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.csprojAssemblyReference.cache
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.csproj.CoreCompileInputs.cache
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.csproj.CopyComplete
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.dll
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.pdb
+C:\Users\91973\source\repos\KafkaConsumer\KafkaConsumer\obj\Debug\netcoreapp3.1\KafkaConsumer.genruntimeconfig.cache

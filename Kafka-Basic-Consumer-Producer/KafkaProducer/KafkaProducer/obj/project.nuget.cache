@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "+y5MI5x4UXyvnRXoMmIk+6PkrGbAwgJH9Uq24FmGM2XRB+Ozkrzyby18JCmdgiAE4rors+bgnr1+fVcCDBAFlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91973\\source\\repos\\KafkaProducer\\KafkaProducer\\KafkaProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91973\\.nuget\\packages\\confluent.kafka\\1.6.3\\confluent.kafka.1.6.3.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\kafka-net\\0.9.0.65\\kafka-net.0.9.0.65.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\librdkafka.redist\\1.6.1\\librdkafka.redist.1.6.1.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'kafka-net 0.9.0.65' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "kafka-net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
